@@ -22,6 +22,10 @@ The target variable is `Class`:
 
 The dataset is highly imbalanced, with fraudulent transactions representing approximately 0.17% of all transactions.
 
+Dataset source: [Credit Card Fraud Detection — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+Download `creditcard.csv` from Kaggle before running the notebook.
+
 ## Data Preprocessing
 
 - Checked for missing values.
